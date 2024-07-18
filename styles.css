@@ -70,7 +70,8 @@ body {
     width: 49px;
 }
 
-.icons2 { display: flex;
+.icons2 {
+    display: flex;
     height: 37px;
     width: 42px;
 }
@@ -78,7 +79,7 @@ body {
 .icons3 {
     display: flex;
     height: 44px;
-    width: 46px;
+    width: 434px;
 }
 
 .icons4 {
